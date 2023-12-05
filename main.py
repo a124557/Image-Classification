@@ -11,7 +11,7 @@ fashion_mnist = keras.datasets.fashion_mnist
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
-# Revewing the data
+# Reviewing the data
 
 # train_images.shape returns the shape of the array. index[0] is the numebr of sample iamges, index[1] rows in pixels
 # index[2] represents columns in pixels
